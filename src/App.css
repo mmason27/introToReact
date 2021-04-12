@@ -1,0 +1,34 @@
+.allContent {
+  margin: 10px;
+}
+
+.menu {
+  /* color: white;
+  background-color: rgb(25, 169, 236);
+  height: 75px; */
+  background-color: rgb(25, 169, 236);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  font-weight: thin;
+}
+
+.featureArticle {
+  margin-left: 10px;
+  background-color: rgb(219, 211, 211);
+  color: rgb(58, 66, 66);
+  height: auto;
+}
+
+.articleTitle {
+  color: blue;
+}
+
+.postStats {
+  background-color: orange;
+  height: 25px;
+  color: white;
+  font-weight: bolder;
+}
